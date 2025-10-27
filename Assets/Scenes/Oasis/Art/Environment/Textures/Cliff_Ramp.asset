@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f05a51f4cf024800962869cda1090f7, type: 3}
+  m_Name: Cliff_Ramp
+  m_EditorClassIdentifier: 
+  width: 64
+  gradients:
+  - serializedVersion: 2
+    key0: {r: 0.9245283, g: 0.6150725, b: 0.501513, a: 0.015686275}
+    key1: {r: 0.7735849, g: 0.6653697, b: 0.507209, a: 0.28235295}
+    key2: {r: 0.83137256, g: 0.6059929, b: 0.46666667, a: 0.004335742}
+    key3: {r: 0.6886792, g: 0.45746472, b: 0.34109113, a: 0.30980393}
+    key4: {r: 0.7924528, g: 0.5885419, b: 0.42239228, a: 0.078431375}
+    key5: {r: 0.9056604, g: 0.57804674, b: 0.3972944, a: 0.4117647}
+    key6: {r: 0.83137256, g: 0.66216195, b: 0.43529412, a: 0.047058824}
+    key7: {r: 0.6509434, g: 0.47188768, b: 0.3469651, a: 0}
+    ctime0: 0
+    ctime1: 5962
+    ctime2: 11052
+    ctime3: 25500
+    ctime4: 36684
+    ctime5: 39166
+    ctime6: 44449
+    ctime7: 65535
+    atime0: 0
+    atime1: 13333
+    atime2: 33696
+    atime3: 35882
+    atime4: 42221
+    atime5: 48523
+    atime6: 65535
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: -1
+    m_NumColorKeys: 8
+    m_NumAlphaKeys: 7
+--- !u!28 &1187203838617299282
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cliff_Ramp_Preview
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 3
+  m_Width: 64
+  m_Height: 1
+  m_CompleteImageSize: 508
+  m_MipsStripped: 0
+  m_TextureFormat: 4
+  m_MipCount: 7
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 1
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 508
+  _typelessdata: ec9d8004e59f8009dea1800fd8a48114d1a68119caa8811fc6a98124c9a67f29cca37d2ecfa07a34d29c7839d39a763ed0977444ce947247cb916f44c98f6d40c68c6b3cc3896839c1866635be846432bb81612eb97e5f2ab67c5d27b4795a23b1765820b176581cb3795a18b67c5c15b87f5e11bb83600dbd86620ac0896306c28c6503c58f6718c792693dc9956b4ad3956a40df946737e695662de2996823de9d6a1adaa26c1ad7a66e28d3a86f36d1a66e44cfa36c52cda16b60ca9f6a67c89c6961c69a685cc3976756c1956650bf93654bbd906445ba8e623fb88b6139b6896034b4875f2eb1845e28af825d23ad805c1dab7d5b17a87b5a12a678580ce89e8006dba28011cda7811cc7a78026cda17b31d29b773bcf957345ca906e42c48a693abf856533ba7f602cb57a5b25b176581eb47a5b16b9815f0fbe876208c38d660dc8936a43d994683be4976728dc9f6b1ad5a76e2fd0a46d4bcba06a63c79b685ec2966653be916448b98c613cb5885f31b0835d25ac7e5b1aa779590fe1a0800bcaa78021cf9e7936cc927043c1876736b77c5d28b278591abb84600bc5906828de956731d8a36c24cda26b57c4986758bb8e6242b2855e2ba97b5a14d5a38016cd98743cbc81622fb67e5c12d192672cd2a26b3dbf93644dad805c1fd19d7a29b97f5f20d19a6934b6896036c58e6c24c3916435c48f682c
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
